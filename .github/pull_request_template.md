@@ -13,7 +13,8 @@ PR title tips:
 * Use imperative mood
 * Describe the motivation for change, issue that has been solved or what has been improved - not how
 * Examples:
-  * Include functions for calculating Allan variance
+  * Add functionality for Allan variance to sensor_4s.simulate
   * Upgrade to support Python 9.10
-  * Remove MacOS from CI 
+  * Remove MacOS from CI
+  *
 
