@@ -1,0 +1,22 @@
+changelog:
+  exclude:
+    labels:
+      - chore
+      - test 
+      
+  categories:
+  - title: Breaking Changes 🛠
+    labels:
+    - breaking-change
+  - title: Features 🎉
+    labels:
+    - feature
+    - enhancement
+  - title: Bug Fixes
+    labels:
+    - bug
+  - title: Other Changes
+    labels:
+       - documentation
+       - refactor
+       - "*"
