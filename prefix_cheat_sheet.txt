@@ -1,0 +1,12 @@
+Cheat sheet 
+
+MAINT.: Maintenance
+CHORE.: Non-coding tasks  
+BUG...: Bug fix
+DOC...: Documentation
+TEST..: Addition or modification of test
+STYLE.: Style fix (black/isort)
+DEP...: Deprecate something, or remove a deprecated object
+ENH...: Enhancement, including new feature
+
+
