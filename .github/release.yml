@@ -12,10 +12,10 @@ changelog:
     labels:
     - feature
     - enhancement
-  - title: Bug Fixes
+  - title: Bug Fixes :bug:
     labels:
     - bug
-  - title: Other Changes
+  - title: Other Changes ;heavy_check_mark:
     labels:
        - documentation
        - refactor
